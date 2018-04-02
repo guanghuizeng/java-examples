@@ -1,4 +1,4 @@
-package bounce;
+package v1ch14.bounce;
 
 import java.awt.*;
 import java.awt.event.*;

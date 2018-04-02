@@ -1,4 +1,4 @@
-package pair3;
+package v1ch12.pair3;
 
 /**
  * @version 1.01 2012-01-26
@@ -10,7 +10,7 @@ public class PairTest3
    {
       Manager ceo = new Manager("Gus Greedy", 800000, 2003, 12, 15);
       Manager cfo = new Manager("Sid Sneaky", 600000, 2003, 12, 15);
-      Pair<Manager> buddies = new Pair<>(ceo, cfo);      
+      Pair<Manager> buddies = new Pair<>(ceo, cfo);
       printBuddies(buddies);
 
       ceo.setBonus(1000000);

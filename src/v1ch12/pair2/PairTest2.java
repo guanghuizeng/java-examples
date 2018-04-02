@@ -1,4 +1,4 @@
-package pair2;
+package v1ch12.pair2;
 
 import java.util.*;
 

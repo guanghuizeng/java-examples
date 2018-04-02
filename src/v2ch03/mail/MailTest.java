@@ -1,4 +1,6 @@
-package mail;
+package v2ch03.mail;
+
+import sun.plugin2.message.transport.Transport;
 
 import java.io.*;
 import java.nio.charset.*;

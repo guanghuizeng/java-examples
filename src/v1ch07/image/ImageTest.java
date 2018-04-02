@@ -1,4 +1,4 @@
-package image;
+package v1ch07.image;
 
 import java.awt.*;
 import javax.swing.*;

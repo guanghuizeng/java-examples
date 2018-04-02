@@ -1,4 +1,4 @@
-package pair3;
+package v1ch12.pair3;
 
 public class Manager extends Employee
 {  

@@ -1,4 +1,4 @@
-package progressMonitor;
+package v2ch06.progressMonitor;
 
 import java.awt.*;
 import java.awt.event.*;

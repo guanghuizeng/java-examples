@@ -1,4 +1,4 @@
-package genericReflection;
+package v1ch12.genericReflection;
 
 import java.lang.reflect.*;
 import java.util.*;

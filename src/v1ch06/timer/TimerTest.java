@@ -1,4 +1,4 @@
-package timer;
+package v1ch06.timer;
 
 /**
    @version 1.00 2000-04-13

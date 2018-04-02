@@ -1,4 +1,4 @@
-package font;
+package v1ch07.font;
 
 import java.awt.*;
 import java.awt.font.*;

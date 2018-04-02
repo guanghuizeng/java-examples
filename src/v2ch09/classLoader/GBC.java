@@ -1,4 +1,4 @@
-package classLoader;
+package v2ch09.classLoader;
 
 /*
 GBC - A convenience class to tame the GridBagLayout

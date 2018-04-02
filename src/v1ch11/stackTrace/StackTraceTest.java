@@ -1,4 +1,4 @@
-package stackTrace;
+package v1ch11.stackTrace;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package permissions;
+package v2ch09.permissions;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,3 +1,5 @@
+package v2ch11.warehouse2;
+
 import java.io.*;
 
 public class Product implements Serializable

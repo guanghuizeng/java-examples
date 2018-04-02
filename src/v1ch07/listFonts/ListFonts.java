@@ -1,4 +1,4 @@
-package listFonts;
+package v1ch07.listFonts;
 
 import java.awt.*;
 

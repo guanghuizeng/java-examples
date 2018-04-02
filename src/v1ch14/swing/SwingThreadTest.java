@@ -1,4 +1,4 @@
-package swing;
+package v1ch14.swing;
 
 import java.awt.*;
 import java.awt.event.*;

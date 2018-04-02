@@ -1,4 +1,4 @@
-package sourceAnnotations;
+package v2ch10.sourceAnnotations;
 
 import java.beans.*;
 import java.io.*;
@@ -71,7 +71,7 @@ public class BeanInfoAnnotationProcessor extends AbstractProcessor
       int i = beanClassName.lastIndexOf(".");
       if (i > 0)
       {
-         out.print("package ");
+         out.print("package v2ch10.");
          out.print(beanClassName.substring(0, i));
          out.println(";");
       }

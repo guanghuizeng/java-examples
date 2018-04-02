@@ -1,4 +1,4 @@
-package composite;
+package v2ch07.composite;
 
 import java.awt.*;
 import java.awt.geom.*;

@@ -1,4 +1,4 @@
-package dom;
+package v2ch02.dom;
 
 import java.awt.*;
 import java.awt.event.*;

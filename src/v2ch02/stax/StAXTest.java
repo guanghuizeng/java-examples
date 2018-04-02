@@ -1,4 +1,4 @@
-package stax;
+package v2ch02.stax;
 
 import java.io.*;
 import java.net.*;

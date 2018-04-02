@@ -1,4 +1,4 @@
-package print;
+package v2ch07.print;
 
 import java.awt.*;
 import javax.swing.*;

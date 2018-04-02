@@ -1,4 +1,4 @@
-package jaas;
+package v2ch09.jaas;
 
 import javax.security.auth.callback.*;
 

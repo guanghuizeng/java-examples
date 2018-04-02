@@ -1,4 +1,4 @@
-package bounceThread;
+package v1ch14.bounceThread;
 
 import java.awt.*;
 import java.awt.event.*;

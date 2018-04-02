@@ -1,4 +1,4 @@
-package logging;
+package v1ch11.logging;
 
 import java.awt.*;
 import java.awt.event.*;

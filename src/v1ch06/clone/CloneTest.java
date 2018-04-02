@@ -1,4 +1,4 @@
-package clone;
+package v1ch06.clone;
 
 /**
  * This program demonstrates cloning.

@@ -1,3 +1,5 @@
+package v2ch12.win32reg;
+
 import java.util.*;
 
 /**

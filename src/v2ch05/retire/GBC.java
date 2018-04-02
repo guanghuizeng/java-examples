@@ -1,4 +1,4 @@
-package retire;
+package v2ch05.retire;
 
 /*
 GBC - A convenience class to tame the GridBagLayout

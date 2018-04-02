@@ -1,4 +1,4 @@
-package treeRender;
+package v2ch06.treeRender;
 
 import java.awt.*;
 import java.lang.reflect.*;

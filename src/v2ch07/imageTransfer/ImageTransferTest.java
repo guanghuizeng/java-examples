@@ -1,4 +1,4 @@
-package imageTransfer;
+package v2ch07.imageTransfer;
 
 import java.awt.*;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package book;
+package v2ch07.book;
 
 import java.awt.*;
 import java.awt.event.*;

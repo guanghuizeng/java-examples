@@ -1,4 +1,4 @@
-package tableCellRender;
+package v2ch06.tableCellRender;
 
 import java.awt.*;
 import javax.swing.*;

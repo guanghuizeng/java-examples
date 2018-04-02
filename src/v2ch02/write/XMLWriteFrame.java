@@ -1,4 +1,4 @@
-package write;
+package v2ch02.write;
 
 import java.awt.event.*;
 import java.beans.*;

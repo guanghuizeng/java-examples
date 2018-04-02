@@ -1,4 +1,4 @@
-package editorPane;
+package v2ch06.editorPane;
 
 import java.awt.*;
 import java.awt.event.*;

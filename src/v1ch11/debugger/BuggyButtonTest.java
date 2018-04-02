@@ -1,4 +1,4 @@
-package debugger;
+package v1ch11.debugger;
 
 import java.awt.*;
 import java.awt.event.*;

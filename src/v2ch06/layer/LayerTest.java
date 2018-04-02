@@ -1,4 +1,4 @@
-package layer;
+package v2ch06.layer;
 
 import java.awt.*;
 import javax.swing.*;

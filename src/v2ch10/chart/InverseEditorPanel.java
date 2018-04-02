@@ -1,4 +1,4 @@
-package chart;
+package v2ch10.chart;
 
 import java.awt.event.*;
 import java.beans.*;

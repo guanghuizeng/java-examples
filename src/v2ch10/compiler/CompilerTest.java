@@ -1,4 +1,4 @@
-package compiler;
+package v2ch10.compiler;
 
 import java.awt.*;
 import java.io.*;
@@ -85,7 +85,7 @@ public class CompilerTest
       throws IOException, ClassNotFoundException
    {
       StringBuilderJavaSource source = new StringBuilderJavaSource("x.Frame");
-      source.append("package x;\n");
+      source.append("package v2ch10.x;\n");
       source.append("public class Frame extends " + superclassName + " {");
       source.append("protected void addEventHandlers() {");
       final Properties props = new Properties();

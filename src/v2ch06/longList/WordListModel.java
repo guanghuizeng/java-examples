@@ -1,4 +1,4 @@
-package longList;
+package v2ch06.longList;
 
 import javax.swing.*;
 

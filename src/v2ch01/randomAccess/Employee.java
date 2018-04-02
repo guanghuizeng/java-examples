@@ -1,4 +1,4 @@
-package randomAccess;
+package v2ch01.randomAccess;
 
 import java.util.*;
 

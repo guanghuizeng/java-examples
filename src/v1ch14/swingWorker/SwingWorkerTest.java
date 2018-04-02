@@ -1,4 +1,4 @@
-package swingWorker;
+package v1ch14.swingWorker;
 
 import java.awt.*;
 import java.awt.event.*;

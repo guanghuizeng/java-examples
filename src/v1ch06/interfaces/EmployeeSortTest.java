@@ -1,4 +1,4 @@
-package interfaces;
+package v1ch06.interfaces;
 
 import java.util.*;
 

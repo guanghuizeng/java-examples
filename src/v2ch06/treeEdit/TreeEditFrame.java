@@ -1,4 +1,4 @@
-package treeEdit;
+package v2ch06.treeEdit;
 
 import java.awt.*;
 import java.awt.event.*;

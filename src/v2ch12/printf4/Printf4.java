@@ -1,3 +1,5 @@
+package v2ch12.printf4;
+
 import java.io.*;
 
 /**

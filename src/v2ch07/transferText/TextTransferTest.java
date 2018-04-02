@@ -1,4 +1,4 @@
-package transferText;
+package v2ch07.transferText;
 
 import java.awt.*;
 import javax.swing.*;

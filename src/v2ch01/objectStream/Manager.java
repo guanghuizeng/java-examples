@@ -1,4 +1,4 @@
-package objectStream;
+package v2ch01.objectStream;
 
 public class Manager extends Employee
 {

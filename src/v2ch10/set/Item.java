@@ -1,4 +1,4 @@
-package set;
+package v2ch10.set;
 
 import java.util.*;
 import bytecodeAnnotations.*;

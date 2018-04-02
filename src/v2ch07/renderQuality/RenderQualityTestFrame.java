@@ -1,4 +1,4 @@
-package renderQuality;
+package v2ch07.renderQuality;
 
 import java.awt.*;
 import java.awt.event.*;

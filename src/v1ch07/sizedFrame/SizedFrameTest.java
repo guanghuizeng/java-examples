@@ -1,4 +1,4 @@
-package sizedFrame;
+package v1ch07.sizedFrame;
 
 import java.awt.*;
 import javax.swing.*;
