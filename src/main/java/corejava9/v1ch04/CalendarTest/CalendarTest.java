@@ -1,7 +1,8 @@
 package corejava9.v1ch04.CalendarTest;
 
 import java.text.DateFormatSymbols;
-import java.util.*;
+import java.util.GregorianCalendar;
+import java.util.Calendar;
 
 /**
  * @author Cay Horstmann
