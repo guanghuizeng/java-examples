@@ -1,0 +1,4 @@
+
+介绍序列化的文章：
+
+https://www.ibm.com/developerworks/cn/java/j-lo-serial/

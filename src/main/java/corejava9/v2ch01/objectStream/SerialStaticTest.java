@@ -8,6 +8,7 @@ public class SerialStaticTest implements Serializable {
 
     public static int staticVar = 5;
 
+    // 序列化保存的是对象的状态，静态变量属于类的状态，因此 序列化并不保存静态变量。
     public static void main(String[] args) {
         try {
             //初始时staticVar为5
