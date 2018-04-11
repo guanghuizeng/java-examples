@@ -1,4 +1,4 @@
-package v2ch03.threaded;
+package corejava9.v2ch03.threaded;
 
 import java.io.*;
 import java.net.*;
