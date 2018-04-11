@@ -1,4 +1,4 @@
-# java-gems
+# java-gallery
 
 这个项目在做两件事：
 1. 用例子阐述Java的语言特性
