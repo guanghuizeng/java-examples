@@ -4,6 +4,9 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+/**
+ * 使用bytestream将一个文件里的内容复制到另一个文件
+ */
 public class CopyBytes {
     public static void main(String[] args) throws IOException {
 
