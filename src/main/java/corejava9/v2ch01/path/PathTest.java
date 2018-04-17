@@ -15,6 +15,10 @@ public class PathTest {
         System.out.format("getRoot: %s\n", path.getRoot().toString());
 
 
+        Path path2 = Paths.get("/Users/guanghuizeng/workspace/github.com/guanghuizeng/notes");
+
+        Path path3 = path.relativize(path2);
+        System.out.println(path3.toString());
 
     }
 
