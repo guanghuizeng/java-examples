@@ -15,11 +15,11 @@ public class FileAtrributesTest {
         BasicFileAttributes attr = Files.readAttributes(path, BasicFileAttributes.class, LinkOption.NOFOLLOW_LINKS);
 
         System.out.printf("size: %d\n", attr.size());
-        System.out.printf("creationTime: %s\n", attr.creationTime());
-        System.out.println("isOther: " + attr.isOther());
+        System.out.printf("isOther: %b\n", attr.isOther());
         System.out.printf("fileKey: %s\n", attr.fileKey());
         System.out.printf("isRegularFile: %b\n", attr.isRegularFile());
-        System.out.println("isSymbolicLink: " + attr.isSymbolicLink());
+        System.out.printf("isSymbolicLink: %b\n", attr.isSymbolicLink());
+        System.out.printf("creationTime: %s\n", attr.creationTime());
         System.out.printf("lastAccessTime: %s\n", attr.lastAccessTime().toString());
         System.out.printf("lastModifiedTime: %s\n", attr.lastModifiedTime().toString());
 
